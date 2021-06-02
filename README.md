@@ -13,4 +13,4 @@ A arcade racing game
   - kart racing
 
 ## ScreenShots
-<img src="Images/ss1.png" height='230x' width='400x'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ss2.png" height='230x' width='400x'/>
+<img src="Images/ss1.jpg" height='230x' width='400x'/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ss2.jpg" height='230x' width='400x'/>
