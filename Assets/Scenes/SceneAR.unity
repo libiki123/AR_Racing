@@ -694,7 +694,7 @@ MonoBehaviour:
   placementIndicator: {fileID: 21256570}
   arOrigin: {fileID: 656380095}
   arRaycast: {fileID: 656380097}
-  objectToPlace: {fileID: 2195780123709653177, guid: 51cb47a66fcdeab43b2fdf3359478c1b, type: 3}
+  objectToPlace: {fileID: 8636154943039783400, guid: 51cb47a66fcdeab43b2fdf3359478c1b, type: 3}
 --- !u!4 &1786452965
 Transform:
   m_ObjectHideFlags: 0
